@@ -1,6 +1,13 @@
 # fundamentos-python
 
 # Códigos
+
+|comando|descrição          |
+|-------|-------------------|
+|ls     | listar            |
+|mkdir  | criar diretório   |
+
+
 ```
 ls: listar
 mkdir: criar diretório 
