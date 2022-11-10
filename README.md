@@ -14,3 +14,17 @@
 |Ctrl + X + S| salvar as alterações |
 |history     | ver modificações     |
 
+
+#Github e Gitlab
+
+|comando         |descrição             |
+|----------------|----------------------|
+|Git             |versionamento         |
+|Gitlab          |repositório           |
+|Github          |repositório           |
+|Editor de código|code .                |
+
+
+#Ambiente virtual
+
+
