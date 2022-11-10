@@ -15,6 +15,7 @@
 |history     | ver modificações     |
 
 
+
 **_Github e Gitlab_**
 
 |comando         |descrição         |
@@ -23,6 +24,8 @@
 |Gitlab          |repositório       |
 |Github          |repositório       |
 |code .          |Editor de código  |
+
+
 
 
 **_Ambiente virtual_**
