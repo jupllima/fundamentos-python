@@ -1,6 +1,8 @@
-# fundamentos-python
+# Fundamentos de Python
 
-# Códigos
+## Comando terminal linux
+
+
 ```
 ls: listar
 mkdir: criar diretório 
