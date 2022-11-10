@@ -15,16 +15,16 @@
 |history     | ver modificações     |
 
 
-###Github e Gitlab
+Github e Gitlab
 
-|comando         |descrição             |
-|----------------|----------------------|
-|Git             |versionamento         |
-|Gitlab          |repositório           |
-|Github          |repositório           |
-|code .          |Editor de código      |
+|comando         |descrição         |
+|----------------|------------------|
+|Git             |versionamento     |
+|Gitlab          |repositório       |
+|Github          |repositório       |
+|code .          |Editor de código  |
 
 
-####Ambiente virtual
+Ambiente virtual
 
 
