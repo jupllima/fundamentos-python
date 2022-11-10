@@ -1,6 +1,6 @@
 # Fundamentos de Python
 
-## Comando terminal linux
+## Comando terminal Linux
 
 
 |comando     |descrição             |
