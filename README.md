@@ -1,4 +1,7 @@
-# fundamentos-python
+# Fundamentos de Python
+
+## Comando terminal linux
+
 
 # Códigos
 
